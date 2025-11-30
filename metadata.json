@@ -1,0 +1,5 @@
+{
+  "name": "Formazione DM66",
+  "description": "Dashboard per la visualizzazione e l'analisi delle ore di formazione dei docenti da dati Google Sheets.",
+  "requestFramePermissions": []
+}
