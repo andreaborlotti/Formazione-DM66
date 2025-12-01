@@ -159,6 +159,9 @@ function App() {
                   <p className="text-slate-500 text-sm leading-tight">
                     Seleziona una scuola e digita almeno 2 caratteri del nome o cognome del docente per visualizzare il report.
                   </p>
+                  <p className="text-slate-500 text-sm leading-tight mt-1">
+                    Per vedere il catalogo ed il calendario completo, visita il <a href="https://sites.google.com/operasantalessandro.it/operainformazione/" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:underline">sito dedicato</a>.
+                  </p>
                </div>
             </div>
           </div>
